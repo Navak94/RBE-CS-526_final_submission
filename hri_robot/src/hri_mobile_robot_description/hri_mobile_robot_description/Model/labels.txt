@@ -1,0 +1,7 @@
+0 stop
+1 forward
+2 backward
+3 sideway_left
+4 sideway_right
+5 z_clockwise
+6 z_counterclockwise

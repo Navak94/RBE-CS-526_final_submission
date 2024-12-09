@@ -1,0 +1,89 @@
+[0.723s] Invoking command in '/home/osb/hri_robot/src/hri_mobile_robot_description': PYTHONPATH=/home/osb/hri_robot/build/hri_mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hri_mobile_robot_description build --build-base /home/osb/hri_robot/build/hri_mobile_robot_description/build install --record /home/osb/hri_robot/build/hri_mobile_robot_description/install.log --single-version-externally-managed install_data
+[0.924s] running egg_info
+[0.924s] creating ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info
+[0.931s] writing ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/PKG-INFO
+[0.931s] writing dependency_links to ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/dependency_links.txt
+[0.931s] writing entry points to ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/entry_points.txt
+[0.931s] writing requirements to ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/requires.txt
+[0.931s] writing top-level names to ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/top_level.txt
+[0.931s] writing manifest file '../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/SOURCES.txt'
+[0.951s] reading manifest file '../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/SOURCES.txt'
+[0.951s] writing manifest file '../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info/SOURCES.txt'
+[0.951s] running build
+[0.951s] running build_py
+[0.951s] creating /home/osb/hri_robot/build/hri_mobile_robot_description/build
+[0.951s] creating /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib
+[0.951s] creating /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.952s] copying hri_mobile_robot_description/handDetector.py -> /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.952s] copying hri_mobile_robot_description/__init__.py -> /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.952s] copying hri_mobile_robot_description/gesture_cal.py -> /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.952s] copying hri_mobile_robot_description/data.py -> /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.952s] copying hri_mobile_robot_description/gesture_to_cmd.py -> /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.952s] copying hri_mobile_robot_description/classifier.py -> /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description
+[0.953s] running install
+[0.955s] running install_lib
+[0.964s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.964s] copying /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description/handDetector.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.965s] copying /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description/__init__.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.965s] copying /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description/gesture_cal.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.965s] copying /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description/data.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.965s] copying /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description/gesture_to_cmd.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.965s] copying /home/osb/hri_robot/build/hri_mobile_robot_description/build/lib/hri_mobile_robot_description/classifier.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description
+[0.965s] byte-compiling /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description/handDetector.py to handDetector.cpython-310.pyc
+[0.966s] byte-compiling /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description/__init__.py to __init__.cpython-310.pyc
+[0.966s] byte-compiling /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description/gesture_cal.py to gesture_cal.cpython-310.pyc
+[0.966s] byte-compiling /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description/data.py to data.cpython-310.pyc
+[0.966s] byte-compiling /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description/gesture_to_cmd.py to gesture_to_cmd.cpython-310.pyc
+[0.967s] byte-compiling /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description/classifier.py to classifier.cpython-310.pyc
+[0.967s] running install_data
+[0.967s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/ament_index
+[0.967s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/ament_index/resource_index
+[0.967s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/ament_index/resource_index/packages
+[0.967s] copying resource/hri_mobile_robot_description -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/ament_index/resource_index/packages
+[0.967s] copying package.xml -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description
+[0.967s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/launch
+[0.967s] copying launch/gesturerec.launch.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/launch
+[0.967s] copying launch/display.launch.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/launch
+[0.967s] copying launch/joystick.launch.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/launch
+[0.967s] copying launch/gazebo.launch.py -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/launch
+[0.967s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/urdf
+[0.967s] copying urdf/hri_mobile_robot.xacro -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/urdf
+[0.968s] copying urdf/hri_mobile_robot.trans -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/urdf
+[0.968s] copying urdf/hri_mobile_robot.gazebo -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/urdf
+[0.968s] copying urdf/materials.xacro -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/urdf
+[0.968s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.968s] copying meshes/bec_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.969s] copying meshes/motor_driver_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.972s] copying meshes/base_link.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.975s] copying meshes/battery_1_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.978s] copying meshes/bms_1_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.978s] copying meshes/blue_back_wheel_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.981s] copying meshes/raspberry_pi_4_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.985s] copying meshes/camera_mount_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.985s] copying meshes/blue_back_motor_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.986s] copying meshes/blue_front_motor_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.986s] copying meshes/blue_front_wheel_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.989s] copying meshes/bms_2_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.989s] copying meshes/lidar_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[0.999s] copying meshes/camera_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.000s] copying meshes/battery_2_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.002s] copying meshes/imu_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.003s] copying meshes/red_back_motor_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.004s] copying meshes/on_off_switch_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.005s] copying meshes/red_front_motor_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.005s] copying meshes/red_front_wheel_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.009s] copying meshes/bms_3_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.009s] copying meshes/red_back_wheel_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.012s] copying meshes/buck_converter_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.015s] copying meshes/bms_4_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.015s] copying meshes/arduino_nano_1.stl -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/meshes
+[1.021s] creating /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/config
+[1.021s] copying config/joystick.yaml -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/config
+[1.021s] copying config/display.rviz -> /home/osb/hri_robot/install/hri_mobile_robot_description/share/hri_mobile_robot_description/config
+[1.021s] running install_egg_info
+[1.028s] Copying ../../build/hri_mobile_robot_description/hri_mobile_robot_description.egg-info to /home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages/hri_mobile_robot_description-0.0.0-py3.10.egg-info
+[1.029s] running install_scripts
+[1.058s] Installing cmd_node script to /home/osb/hri_robot/install/hri_mobile_robot_description/lib/hri_mobile_robot_description
+[1.058s] Installing index_node script to /home/osb/hri_robot/install/hri_mobile_robot_description/lib/hri_mobile_robot_description
+[1.060s] writing list of installed files to '/home/osb/hri_robot/build/hri_mobile_robot_description/install.log'
+[1.079s] Invoked command in '/home/osb/hri_robot/src/hri_mobile_robot_description' returned '0': PYTHONPATH=/home/osb/hri_robot/build/hri_mobile_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/osb/hri_robot/install/hri_mobile_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hri_mobile_robot_description build --build-base /home/osb/hri_robot/build/hri_mobile_robot_description/build install --record /home/osb/hri_robot/build/hri_mobile_robot_description/install.log --single-version-externally-managed install_data

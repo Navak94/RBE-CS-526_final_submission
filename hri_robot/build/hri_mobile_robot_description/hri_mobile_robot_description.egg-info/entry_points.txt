@@ -1,0 +1,3 @@
+[console_scripts]
+cmd_node = hri_mobile_robot_description.gesture_to_cmd:main
+index_node = hri_mobile_robot_description.gesture_cal:main
